@@ -1,10 +1,10 @@
-package com.hw.api.hwspringrestgraphqlapi;
+package com.hw.api.rest;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class HwController {
+public class HwRestController {
 
     @GetMapping("/hello}")
     public String getHwMessage(){

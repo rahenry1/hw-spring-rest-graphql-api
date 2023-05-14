@@ -1,4 +1,4 @@
-package com.hw.api.hwspringrestgraphqlapi;
+package com.hw.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
